@@ -37,4 +37,29 @@ Don't forget to come back and update your entry should your tool have a major up
 
 # Project Registry 
 
+## Analysis
 - [Ribosome Decision Graphs Concept](projects/Jack_Tierney_Ribosome_Decision_Graphs_concept.md)
+- [Canadata]()
+
+## Tools
+- [RUST]()
+- [PAUSEPRED]()
+- [RFEET]()
+- [RiboMetric]()
+- [RDG]()
+
+## Databases
+- [RECODE]()
+- [DARNED]()
+
+
+## [RiboSeq.Org]()
+   - [GWIPS-viz]()
+   - [Trips-Viz]()
+   - [RiboGalaxy]()
+   - [RiboSeq Data Portal]()
+   - [RiboCrypt]()
+
+## Resources
+- []()
+
